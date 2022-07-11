@@ -1,2 +1,2 @@
-# MSBD5007BlockchainProject.github.io
+# MSBD5007Blockchainject.github.io
 Personal Website
